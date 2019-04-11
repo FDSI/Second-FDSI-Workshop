@@ -1,4 +1,4 @@
-This document provides all the zoom invite links and phone numbers. We will start with the full group activities in the first section and then give the remote breakout discussions in the second section. If you have not done so already, you will need to download the zoom software from this link https://zoom.us/
+This document provides all the zoom invite links and phone numbers. We have interleaved the Zoom meeting information with the agenda (in italics). The 8 zoom sessions are in bold just ahead of the agenda items the session covers and the links for each zoom meeting are immediately after those agenda items.  In each case we start the Zoom meeting 5 minutes before to the first agenda topic covered. If you have not done so already, you will need to download the zoom software from this link https://zoom.us/
 
 
 Friday, April 12
