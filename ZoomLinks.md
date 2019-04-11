@@ -3,35 +3,33 @@ This document provides all the zoom invite links and phone numbers. We will star
 
 Friday, April 12
 
-**ZOOM SESSION 1 covers the following (meeting info below agenda segment....nothing likely to happen before 1:20 other than sign in)**
+**ZOOM SESSION 1 covers the following (meeting info below agenda segment....nothing likely to happen before 1:20 other than sign in)**  
+*13:00 	Sign-in*   
+*13:20   Introduction to FDSI - (brief overview, introducing team) (10)*  
+*13:30	Session A: Essential Components of FDSI: Intro. and form breakout groups	(15)*  
 
-*13:00 	Sign-in* 
-*13:20   Introduction to FDSI - (brief overview, introducing team) (10)*
-*13:30	Session A: Essential Components of FDSI: Intro. and form breakout groups	(15)*
+Topic: Sign in, Intro to FDSI ,and Intro to Session A  
+Time: Apr 12, 2019 1:00 PM Mountain Time (US and Canada)  
 
-Topic: Sign in, Intro to FDSI ,and Intro to Session A
-Time: Apr 12, 2019 1:00 PM Mountain Time (US and Canada)
-
-Join Zoom Meeting
+Join Zoom Meeting  
 https://cuboulder.zoom.us/j/680200469
 
-One tap mobile
-+16699006833,,680200469# US (San Jose)
-+16465588656,,680200469# US (New York)
+One tap mobile  
++16699006833,,680200469# US (San Jose)  
++16465588656,,680200469# US (New York)  
 
-Dial by your location
-        +1 669 900 6833 US (San Jose)
-        +1 646 558 8656 US (New York)
-Meeting ID: 680 200 469
-Find your local number: https://zoom.us/u/acEdg0D2qR
+Dial by your location  
+        +1 669 900 6833 US (San Jose)  
+        +1 646 558 8656 US (New York)  
+Meeting ID: 680 200 469  
+Find your local number: https://zoom.us/u/acEdg0D2qR  
 
-Join by SIP
-680200469@zoomcrc.com
+Join by SIP  
+680200469@zoomcrc.com  
 
 *13:45	Session A: Breakout discussions (60) (not covered as groups are dispersed)*
 
-**ZOOM Session 2 covers the 45 minute report back** 
-
+**ZOOM Session 2 covers the 45 minute report back**  
 *14:45  	Session A: Report back to full group (45)*
 
 Topic: Session A Report Back and Discussion
