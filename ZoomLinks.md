@@ -1,7 +1,7 @@
 This document provides all the zoom invite links and phone numbers. We have interleaved the Zoom meeting information with the agenda (in italics). The 8 zoom sessions are in bold just ahead of the agenda items the session covers and the links for each zoom meeting are immediately after those agenda items.  In each case we start the Zoom meeting 5 minutes before the first agenda topic covered. If you have not done so already, you will need to download the zoom software from this link https://zoom.us/
 
 
-Friday, April 12
+**Friday, April 12**
 
 **ZOOM SESSION 1 covers the following (meeting info below agenda segment....nothing likely to happen before 1:20 other than sign in)**  
 *13:00 	Sign-in*   
@@ -107,7 +107,7 @@ Join by SIP
 
 
 
-Saturday, April 13
+**Saturday, April 13**
 
 
 *08:30 	Light breakfast (30)*
