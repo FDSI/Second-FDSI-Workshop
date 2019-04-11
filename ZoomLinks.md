@@ -1,9 +1,9 @@
-This document provides all the zoom invite links and phone numbers. We have interleaved the Zoom meeting information with the agenda (in italics). The 8 zoom sessions are in bold just ahead of the agenda items the session covers and the links for each zoom meeting are immediately after those agenda items.  In each case we start the Zoom meeting 5 minutes before the first agenda topic covered. If you have not done so already, you will need to download the zoom software from this link https://zoom.us/
+This document provides all the zoom invite links and phone numbers. We have interleaved the Zoom meeting information with the agenda (in italics). The 8 zoom meetings are in bold just ahead of the agenda items the session covers and the links for each zoom meeting are immediately after those agenda items.  In each case we start the Zoom meeting 5 minutes before the first agenda topic covered. If you have not done so already, you will need to download the zoom software from this link https://zoom.us/
 
 
 **Friday, April 12**
 
-**ZOOM Session 1 covers the following (meeting info below agenda segment....nothing likely to happen before 1:20 other than sign in)**  
+**ZOOM Meeting 1 covers the following (meeting info below agenda segment....nothing likely to happen before 1:20 other than sign in)**  
 *13:00 	Sign-in*   
 *13:20   Introduction to FDSI - (brief overview, introducing team) (10)*  
 *13:30	Session A: Essential Components of FDSI: Intro. and form breakout groups	(15)*  
@@ -29,7 +29,7 @@ Join by SIP
 
 *13:45	Session A: Breakout discussions (60) (not covered as groups are dispersed)*
 
-**ZOOM Session 2 covers the 45 minute report back**  
+**ZOOM Meeting 2 covers the 45 minute report back of Session A**  
 *14:45  	Session A: Report back to full group (45)*
 
 Topic: Session A Report Back and Discussion  
@@ -54,7 +54,7 @@ Join by SIP
 
 *15:30 	Break  (15)*
 
-**ZOOM Session 3 Intro to Session B**  
+**ZOOM Meeting 3 Intro to Session B**  
 *15:45 	Session B: FDSI Software Infrastructure Sharing: Intro. and form breakout groups  (15)*
 
 Topic: Intro to Session B  
@@ -79,7 +79,7 @@ Join by SIP
 
 *16:00 	Session B: Breakout discussions (60)*
 
-**ZOOM Session 4 Session B Report Back and Discussion and Wrapup**  
+**ZOOM Meeting 4 Session B Report Back and Discussion and Wrapup**  
 *17:00 	Session B: Report back to full group (45)*  
 *17:45  	Day 1 wrap-up (5) ad hoc dinner grouping*  
 
@@ -112,7 +112,7 @@ Join by SIP
 
 *08:30 	Light breakfast (30)*
 
-**ZOOM Session 5: Lightening Presentations and Intro to Session C**  
+**ZOOM Meeting 5: Lightening Presentations and Intro to Session C**  
 *09:00 	Lightning presentations (45)*	  
 *09:45 	Session C Community-sourced Plan : Intro. and form breakout groups (15)*  
 
@@ -162,7 +162,7 @@ Join by SIP
 
 *12:15 	Lunch (60)*
 
-**ZOOM Session 7: Session D Intro**  
+**ZOOM Meeting 7: Session D Intro**  
 *13:15 	Session D: Governance, Leadership Team Composition, and Prioritization of FDSI Budget/Effort: Intro. and form breakout groups (15)*
 
 Topic: Session D Intro  
@@ -187,7 +187,7 @@ Join by SIP
 *13:30 	Session D: Breakout discussions (60)*  
 *14:30 	Break (15)*
 
-**ZOOM Session 8: Session D Report back and discussions and Closing Discusions**  
+**ZOOM Meeting 8: Session D Report back and discussions and Closing Discusions**  
 *14:45 	Session D: Report back to full group (60)*  
 *15:45 	Community Priorities and Next Steps Discussion? (60) *(see below for more)*  
 *16:45 	Workshop wrap-up (15)* 
