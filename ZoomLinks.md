@@ -3,7 +3,7 @@ This document provides all the zoom invite links and phone numbers. We have inte
 
 **Friday, April 12**
 
-**ZOOM SESSION 1 covers the following (meeting info below agenda segment....nothing likely to happen before 1:20 other than sign in)**  
+**ZOOM Session 1 covers the following (meeting info below agenda segment....nothing likely to happen before 1:20 other than sign in)**  
 *13:00 	Sign-in*   
 *13:20   Introduction to FDSI - (brief overview, introducing team) (10)*  
 *13:30	Session A: Essential Components of FDSI: Intro. and form breakout groups	(15)*  
