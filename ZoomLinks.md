@@ -112,7 +112,7 @@ Saturday, April 13
 
 *08:30 	Light breakfast (30)*
 
-**ZOOM Sesssion 5: Lightening Presentations and Intro to Session C**  
+**ZOOM Session 5: Lightening Presentations and Intro to Session C**  
 *09:00 	Lightning presentations (45)*	  
 *09:45 	Session C Community-sourced Plan : Intro. and form breakout groups (15)*  
 
