@@ -4,6 +4,7 @@ This document provides all the zoom invite links and phone numbers. We will star
 Friday, April 12
 
 **ZOOM SESSION 1 covers the following (meeting info below agenda segment....nothing likely to happen before 1:20 other than sign in)**
+
 *13:00 	Sign-in* 
 *13:20   Introduction to FDSI - (brief overview, introducing team) (10)*
 *13:30	Session A: Essential Components of FDSI: Intro. and form breakout groups	(15)*
@@ -28,7 +29,6 @@ Join by SIP
 680200469@zoomcrc.com
 
 *13:45	Session A: Breakout discussions (60) (not covered as groups are dispersed)*
-
 
 **ZOOM Session 2 covers the 45 minute report back** 
 
@@ -82,6 +82,7 @@ Join by SIP
 *16:00 	Session B: Breakout discussions (60)*
 
 **ZOOM Session 4 Session B Report Back and Discussion and Wrapup**
+
 *17:00 	Session B: Report back to full group (45)*
 *17:45  	Day 1 wrap-up (5) ad hoc dinner grouping*
 
@@ -115,6 +116,7 @@ Saturday, April 13
 *08:30 	Light breakfast (30)*
 
 **ZOOM Sesssion 5: Lightening Presentations and Intro to Session C**
+
 *09:00 	Lightning presentations (45)*	
 *09:45 	Session C Community-sourced Plan : Intro. and form breakout groups (15)*
 
